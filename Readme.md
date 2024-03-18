@@ -1,4 +1,4 @@
-This Github repository contains the code and data used in the bachelor's thesis "A Modular System to Control the Dialog Strategy of Large Language Models Tutors" by Romain Puech, École polytechnique, advised by Dr. Julia Chatain, ETH Zurich with co-advisors Jakub Macina and Prof. Dr. Mrinmaya Sachan, ETH AI Center.
+This Github repository contains the code and data used in the bachelor's thesis "A Modular System to Control the Dialog Strategy of Large Language Models Tutors" by Romain Puech, École polytechnique, advised by Dr. Julia Chatain, ETH Zurich, with co-advisors Jakub Macina and Prof. Dr. Mrinmaya Sachan, ETH AI Center.
 
 Please contact the author at romain.puech@polytechnique.edu.
 
