@@ -1,0 +1,121 @@
+a
+total: 55
+true_positives: 0
+false_positives: 0
+true_negatives: 53
+false_negatives: 2
+precision: 0
+recall: 0.0
+f1: 0
+b
+total: 55
+true_positives: 0
+false_positives: 1
+true_negatives: 54
+false_negatives: 0
+precision: 0.0
+recall: 0
+f1: 0
+c
+total: 55
+true_positives: 2
+false_positives: 2
+true_negatives: 51
+false_negatives: 0
+precision: 0.5
+recall: 1.0
+f1: 0.6666666666666666
+d
+total: 55
+true_positives: 1
+false_positives: 7
+true_negatives: 40
+false_negatives: 7
+precision: 0.125
+recall: 0.125
+f1: 0.125
+e
+total: 55
+true_positives: 0
+false_positives: 3
+true_negatives: 52
+false_negatives: 0
+precision: 0.0
+recall: 0
+f1: 0
+f
+total: 55
+true_positives: 38
+false_positives: 5
+true_negatives: 8
+false_negatives: 4
+precision: 0.8837209302325582
+recall: 0.9047619047619048
+f1: 0.8941176470588236
+g
+total: 55
+true_positives: 12
+false_positives: 10
+true_negatives: 33
+false_negatives: 0
+precision: 0.5454545454545454
+recall: 1.0
+f1: 0.7058823529411764
+h
+total: 55
+true_positives: 0
+false_positives: 0
+true_negatives: 54
+false_negatives: 1
+precision: 0
+recall: 0.0
+f1: 0
+i
+total: 55
+true_positives: 0
+false_positives: 3
+true_negatives: 52
+false_negatives: 0
+precision: 0.0
+recall: 0
+f1: 0
+j
+total: 55
+true_positives: 8
+false_positives: 6
+true_negatives: 39
+false_negatives: 2
+precision: 0.5714285714285714
+recall: 0.8
+f1: 0.6666666666666666
+k
+total: 55
+true_positives: 3
+false_positives: 5
+true_negatives: 42
+false_negatives: 5
+precision: 0.375
+recall: 0.375
+f1: 0.375
+l
+total: 55
+true_positives: 0
+false_positives: 0
+true_negatives: 55
+false_negatives: 0
+precision: 0
+recall: 0
+f1: 0
+m
+total: 55
+true_positives: 0
+false_positives: 4
+true_negatives: 51
+false_negatives: 0
+precision: 0.0
+recall: 0
+f1: 0
+
+macro_average: 0.23081569593197498
+micro_average: 0.5818181818181818
+weighted_average: 0.6826297577854671
